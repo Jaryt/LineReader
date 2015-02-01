@@ -45,6 +45,8 @@ public class LineCalculator extends JFrame
 
 	public LineCalculator()
 	{
+		setTitle("File Information Calculator");
+		
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 618, 160);
 		contentPane = new JPanel();
