@@ -21,7 +21,7 @@ import javax.swing.border.EmptyBorder;
 
 @SuppressWarnings("serial")
 /**
- * @author Jarut Bustard 
+ * @author Jaryt Bustard 
  */
 public class LineCalculator extends JFrame
 {
