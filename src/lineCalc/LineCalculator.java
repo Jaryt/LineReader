@@ -20,6 +20,9 @@ import javax.swing.SwingConstants;
 import javax.swing.border.EmptyBorder;
 
 @SuppressWarnings("serial")
+/**
+ * @author Jarut Bustard 
+ */
 public class LineCalculator extends JFrame
 {
 
